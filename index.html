@@ -1,25 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="https://newcss.net/new.min.css">
-	<!-- https://github.com/xz/new.css/tree/d190d4e70beb33d47c5ee3bf73bf97e1f847b297#legend -->
-	<style>
-		:root {
-			--nc-ac-1: #F56600;
-		}
-	</style>
-	<title>imjohnbo</title>
-</head>
-<body>
-	<header>
-        <h1>imjohnbo</h1>
-        <nav>
-            <a href="https://imjohnbo.com/">Home</a> /
-            <a href="https://imjohnbo.com/blog">Blog</a> /
-            <a href="https://github.com/imjohnbo">GitHub</a>
-        </nav>
-    </header>
-</body>
-</html>
+---
+layout: default
+title: Home
+---
+
+<!-- Posts Index
+================================================== -->
+<div class="blog-grid-container">
+    {% for post in paginator.posts %}
+        {% include postbox.html %}
+    {% endfor %}
+</div>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
+
