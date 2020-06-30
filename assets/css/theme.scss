@@ -14,12 +14,12 @@ $enable-rounded: false;
 @import 'bootstrap/variables';
 @import "bootstrap/mixins";
 @import 'bootstrap/bootstrap';
-@import 'stars';
+// @import 'stars';
 
 
 // general
 body, input, button, select, optgroup, textarea {   
-    font-family:Sen;
+    font-family:Montserrat;
 }
 body {
     line-height:1.7;
