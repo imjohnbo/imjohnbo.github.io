@@ -44,7 +44,7 @@ h1,h2,h3,h4,h5,h6 {
     line-height:1.3;
     font-size:35px;
     @include media-breakpoint-up(sm) {
-        font-size:50px;
+        font-size:40px;
         line-height:1.2;
     }
 }
@@ -115,7 +115,7 @@ img, img:hover {
 }
 // menu
 .navbar-brand img {
-    max-height:80px;
+    max-height:120px;
     margin-bottom:40px;
     margin-top:40px;
 }

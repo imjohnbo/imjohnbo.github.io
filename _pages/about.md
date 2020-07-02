@@ -3,11 +3,11 @@ layout: page
 title: About 
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/about.jpg
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+This website is a personal blog used to express opinions, inform, and entertain.
 
-<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+It uses the <a target="_blank" href="https://www.wowthemes.net/memoirs-free-jekyll-theme/">Memoirs Jekyll Theme</a> by WowThemes.net. The logo is made using the [Noun Project](https://thenounproject.com/) and [Namecheap](https://www.namecheap.com/). Thanks to photographers on [Unsplash](https://unsplash.com/) for the beautiful photos.
 
