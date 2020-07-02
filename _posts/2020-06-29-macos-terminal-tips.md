@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "macOS Terminal Tips"
+title: "macOS Terminal Tips"
 author: john
 categories: [ Technology ]
 tags: [ macOS ]
