@@ -12,7 +12,7 @@ image: assets/images/2021-12-27-partner-engineer.jpg
 
 Over the last decade, a new developer discipline has emerged called Partner Engineering, found at companies large and small, including GitHub, Algolia, Meta, and Google. **Partner Engineering is a unique combination of software development, program management, community building, and communication, used to build rich ecosystems around a company’s products**. Whether you’re considering a new role, already work as a Partner Engineer, or are building out an integration ecosystem at your company, I hope my experience may be helpful to you.
 
-In this article, I’ll tease apart the role and its responsibilities, contrast it with other roles, and discuss common practices and strategies. This article is based on *my own observations as a Partner Engineer *at GitHub and conversations with others – it does not necessarily reflect the views or opinions of my employer.
+In this article, I’ll tease apart the role and its responsibilities, contrast it with other roles, and discuss common practices and strategies. This article is based on *my own observations as a Partner Engineer* at GitHub and conversations with others – it does not necessarily reflect the views or opinions of my employer.
 
 ## Meet the Partner Engineers
 
