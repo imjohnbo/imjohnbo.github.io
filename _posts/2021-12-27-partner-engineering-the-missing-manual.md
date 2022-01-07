@@ -54,7 +54,7 @@ All this talk about integrations – come to think of it, *what is an integratio
 
 In general, integrations fall into two main categories and in both cases serve to improve the product:
 1. **🧩 Complementary**, where a product *requires* or is *made complete* by external integrations. Smart TVs need partnerships with streaming providers, app stores need apps, etc.
-2. **🪄 Supplementary**, where a product is *reinforced* or *enhanced* by external integrations. Video calling software might be better with external apps but works just fine without it.
+2. **🧪 Supplementary**, where a product is *reinforced* or *enhanced* by external integrations. Video calling software might be better with external apps but works just fine without it.
 
 Of course, what counts as “required” vs “optional” is subjective and is defined by the business. **Partner Engineering** **focuses on complementary integrations**, ensuring a product has launch partners or ongoing gap-filling integrations, but can also be found fostering communities of supplementary integrators. Working with complementary integrations – usually a 1:1 ratio for a period of time – means providing early access to features, presenting to technical audiences, writing reference implementations and documentation, capturing feedback, and supporting the feature launch or long-term integrator pipeline around the feature. Supplementary integrations – a 1:many ratio – augment a “power of the platform” message and need less individual attention but can still be critical to ecosystem vitality. Partner Engineers might arrange Platform Days or office hours for these integrators, or help cohorts with cross-cutting concerns, e.g migrate their integrations to newer authentication models.
 
